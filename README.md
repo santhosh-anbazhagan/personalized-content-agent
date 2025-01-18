@@ -2,6 +2,10 @@
 
 This repository contains the code for a personalized content generation agent built using CrewAI, Pydantic, and Streamlit. The agent takes user search history as input, processes it to remove duplicates and prioritize recent searches, and then generates a structured, personalized content output.
 
+## 🖥️ User Interface
+<img src="/data/sample1.png" alt="sample1" />
+<img src="/data/sample2.png" alt="sample2" />
+
 ## Features
 
 *   **Personalized Content Generation:** Creates content tailored to user search queries.
